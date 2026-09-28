@@ -1,5 +1,13 @@
-# Week 02 Lab and Quiz
+# Lab 02 - Two-Item Purchase Quote
 
-The lab task and assessment checklist are in `lab_assignment.md` in this folder.
+## Test
+I tested the program with:
+- Item 1: 2 × 50 TRY
+- Item 2: 1 × 80 TRY
+- Delivery: 20 TRY
+- Tax: 10%
 
-Use `week02/lab-quiz/` in your own repository for in-class lab and quiz work. Save `lab02_purchase_quote.py` here. Keep separate weekly homework in `week02/` outside this folder.
+The final total was 218.00 TRY.
+
+## Change After Testing
+After testing, I changed the money output to show two decimal places using `.2f`.
